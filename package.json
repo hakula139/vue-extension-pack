@@ -2,7 +2,7 @@
   "name": "vue-extension-pack-hakula",
   "displayName": "Vue Extension Pack",
   "description": "An extension pack for Vue development in Visual Studio Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "hakula",
   "author": {
     "name": "Hakula Chen",
@@ -27,15 +27,12 @@
     "Vue.volar",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "rvest.vs-code-prettier-eslint",
-    "stylelint.vscode-stylelint",
-    "VisualStudioExptTeam.vscodeintellicode",
-    "VisualStudioExptTeam.intellicode-api-usage-examples",
-    "christian-kohler.path-intellisense",
-    "ritwickdey.LiveServer",
-    "syler.sass-indented",
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind",
     "xabikos.JavaScriptSnippets",
-    "richie5um2.vscode-sort-json",
-    "ant-design-vue.vscode-ant-design-vue-helper"
+    "stylelint.vscode-stylelint",
+    "ritwickdey.LiveServer",
+    "christian-kohler.path-intellisense",
+    "richie5um2.vscode-sort-json"
   ]
 }
